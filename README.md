@@ -121,6 +121,217 @@ Newest entries go at the top. Mark a role with 🔒 when it closes instead of de
 | [IPAM UCLA Research](http://www.ipam.ucla.edu/programs/student-research-programs/) | math / computing |
 | [NSF DREU](https://cra.jotform.com/242948236029866) | distributed CS research |
 
+---
+
+## tips
+
+I put together these internship and recruiting tips to help make the process a little easier to navigate. Good luck with recruiting, and I hope this helps you land a great opportunity.
+
+## applying
+
+Apply the day a posting opens. Speed matters more than people think, because most roles are reviewed on a rolling basis and the early applications get seen first. Waiting until you feel ready usually means waiting too long.
+
+Check job boards daily during recruiting season and apply the same day a role appears when you can. Keep a tracker so you do not lose track of where you applied and what is still open. The live job-board lists, like the Pitt CSC and Simplify list this repo is modeled on, are the fastest way to catch new openings.
+
+Find the recruiter who covers your school. Big tech companies assign university recruiters to specific schools. Search "[company] university recruiter" on LinkedIn, then look for someone with a lot of mutual connections from your school. Getting your resume in front of that person beats a cold application.
+
+Watch for exploratory and pipeline programs at companies. Companies do not promote them as much as the main internship postings, so they are easy to miss, but they feed directly into interviews. Look for them and apply early.
+
+---
+
+## early programs for underclassmen
+
+If you are a freshman or sophomore, apply to early-identification programs. Check out my starred section for relevant links. They are built for students with little experience and act as direct pipelines into internships, and most students do not know they exist. Examples include Microsoft Explore, Google STEP, Google Summer of Code, NVIDIA Ignite, Amazon Propel, Goldman Sachs Possibilities Summit, Capital One programs, HRT Women in Trading, Duolingo Thrive, Activision Blizzard King, SPARX, and MongoDB Next in Tech. Many of these are all expenses paid.
+
+---
+
+## resume
+
+Fix your resume before anything else. Someone reads it before you ever get an interview, and if it looks bad or says the wrong things you never get the chance to show who you are.
+
+- Use a clean, single-column template. Jake's Resume template is a common free one (search "Jake's resume"). It parses well and looks straightforward.
+- Write each line with the XYZ shape: accomplished X (the result) by doing Y (the skills, actions, and tools) as measured by Z (numbers, percent, scale, time, or users). The measurement at the end is what makes a line land.
+- Cover the sections recruiters expect: education with GPA and honors, skills with languages and tools, work and related roles, projects, and leadership. Listing clubs, leadership roles, and relevant classes shows you are well rounded, not only grades.
+- Be ready to defend every line. Interviewers will pick a point and ask what it means and what you personally did, and not being able to explain it is a red flag. This is one of the easiest things to prepare and people still skip it.
+- Match the job description. Pull the exact words they use for skills and tools and work them into your resume, since the closer the match the better you do with applicant tracking systems. It takes about twenty minutes and it helps.
+
+---
+
+## projects
+
+Build projects early. Do not wait until applications open, because your resume cannot be empty. A personal portfolio site is the easiest one to start, and with AI tools it goes fast.
+
+Build something with users and ship it. A small app with a clear use, like a chatbot, a recommendation feature, or search, that you deploy and put on your resume tells a better story than most internships. Recruiters increasingly want to see AI experience, so building an AI project is a direct way to show it.
+
+Resource repos and sites for project ideas and full curricula:
+
+- build-your-own-x (codecrafters-io): step-by-step guides to rebuild things like a database or a browser from scratch, which shows you understand how they work
+- project-based-learning (practical-tutorials): tutorials that each end in something you can put on your resume
+- The Odin Project: a free full-stack curriculum where every lesson ends in a project
+- App Ideas Collection: ranked project ideas with features
+- python-mini-projects and web-dev-mini-projects: small beginner-friendly builds
+- frontend mini-project collections: many small HTML, CSS, and JavaScript projects for frontend practice
+- 100-AI-ML-DL-CV-NLP-Projects and awesome-llm-apps: AI and LLM project lists for the AI experience recruiters ask about
+- awesome-for-beginners: open-source issues that are friendly to first-time contributors
+- Build a Large Language Model From Scratch (rasbt): code a GPT-style model yourself
+
+---
+
+## coding interview prep
+
+Start before you think you need to. Most people wait too long.
+
+NeetCode and LeetCode are the two main tools. Work through NeetCode 150 or Blind 75 as a base set.
+
+Learn patterns, not individual problems. Start with arrays and hashing, two pointers, sliding window, trees with DFS and BFS, and binary search. Master those first because the rest builds on them. Filter by topic, do a set three or four times a week, and start with easy before moving to medium.
+
+Say your solution out loud while you practice. In the interview, explaining your logic counts as much as getting the right answer.
+
+A workable cadence: one behavioral question a day, plus role-specific prep. For SWE that is LeetCode and NeetCode. For product roles, work on product sense with Exponent and the Product Haven Slack. Communities like the cscareers.dev Discord help.
+
+More resources:
+
+- system-design-primer (donnemartin): the best free system design resource
+- a low level design repo to use alongside LeetCode
+- coding-interview-university (jwasham): a full prep path covering Google, Meta, and Amazon style interviews
+- roadmap.sh: free role-based roadmaps for frontend, backend, AI, and other paths
+- an algorithm and data structure visualizer to watch code run step by step when you cannot picture what it is doing
+- CS50 from Harvard: a free intro that covers coding, data structures, and algorithms
+- YouTube: Abdul Bari for algorithms and data structures, The Organic Chemistry Tutor for fundamentals, and channels like "Coding Interviews Made Simple" for problem walkthroughs
+
+---
+
+## behavioral interviews
+
+Knowing the questions is not the same as knowing how to answer them. People who have seen the questions still ramble, so practice the delivery, not only the list.
+
+Use CARL instead of STAR: Context to set the scene briefly, Action for what you did rather than what the team did, Result for a concrete outcome, and Learning for what you took away. STAR tends to leave people stuck rambling.
+
+Map three of your experiences to the job description before the interview. For each line in the description, like "collaborate cross-functionally," pick the experience that matches. That mapping is your skill map and it is what they will ask about.
+
+Every interviewer has one question behind all the others: can you do this job. The questions come straight from the job description, so in a sense they are written for you in advance.
+
+Shape each answer around what you owned: the decisions you made, the tradeoffs you took, and the communication you drove, with a concrete result at the end. A strong example moves from a hard situation, to narrowing the problem with data instead of assumptions, to checking your solution with a senior engineer before shipping, to a measurable outcome.
+
+Write down the company's values and how each of your experiences lines up with them before you interview.
+
+---
+
+## networking and coffee chats
+
+Coffee chats are one of the highest-leverage things you can do, since every person you talk to can teach you something and the people you impress are the ones who advocate for you later.
+
+Reach out through your friends' friends, not only people you already know. A warm intro through a mutual connection opens more doors than a message to someone who does not know you.
+
+Prepare before each chat. Look the person up first, check their LinkedIn, what team they are on, what they have worked on, and what they post about, because the more context you have the better your questions are. Write at least ten questions, and decide what you want out of the conversation so you walk away with something useful.
+
+Good questions to ask at the end of a chat or interview: what is a project you have enjoyed, what is one thing you would change, and what has kept you at the company this long. For career-path conversations: how did your path lead here, what is the best advice you have gotten, what do you wish you knew before starting, what does success look like at your level, and what tools or resources have made a difference in your work.
+
+Be a person at the start. When they ask how you are doing, say something genuine or funny rather than a flat answer, since it sets the tone for the whole conversation.
+
+Follow up afterward with a short thank-you, and take notes during the chat. People remember who took their time seriously. Recruiters are busy, so even if you emailed before, they might not remember you, and a follow-up helps.
+
+Use the people around you. Ask a friend who did the internship what kinds of questions they got, since it is often heavy on data structures. Remember your recruiter is not comparing you to someone from Stanford, they are comparing you to people from your own school, so your peers are both your competition and your network. Glassdoor and Reddit have plenty of write-ups on how people got in and what the interviews were like.
+
+LinkedIn message to someone you do not know:
+
+```
+Hi [Name], I hope your week is going well. I am [Your Name], a [year] student at [University] studying [Major]. I recently applied to the [Role] at [Company] and thought you might be connected to that work. If it is not your team, I would appreciate any pointer on who is the best person to reach out to. Thank you.
+```
+
+Coffee chat request:
+
+```
+Hi [Name], I hope you are doing well. I am [Your Name], a [year] student at [University] studying [Major]. I came across your background and would like to hear about your path into [role or field]. If you have time next week, I would appreciate a short chat. I am free at [option 1], [option 2], or [option 3], and can be flexible. Thank you.
+```
+
+Intro through a mutual connection:
+
+```
+Hi [Name], I am [Your Name]. [Mutual friend] said you would be a good person to reach out to since you are in [program]. I am interested in applying and would like to chat if you have a few minutes.
+```
+
+---
+
+## handling an offer
+
+Do not accept on the spot, even when you are excited, because accepting is a commitment. Read the full offer and the agreement first. You are allowed to ask questions or negotiate before you say yes. Respond quickly and professionally, but it is fine to acknowledge the offer and ask for a little time to review.
+
+Accepting:
+
+```
+Subject: Accepting the [Role] Offer - [Your Name]
+
+Hi [Recruiter Name],
+
+Thank you for the offer to join [Company] as a [Role] for [Term and Year]. I am glad to formally accept.
+
+I appreciate the time you and the team put into the process, and I am looking forward to contributing and learning from everyone there. Please let me know the next steps or anything you need from me.
+
+Thanks again,
+[Your Full Name]
+```
+
+Acknowledging an offer to buy time:
+
+```
+Subject: [Role] Offer - [Your Name]
+
+Hi [Recruiter Name],
+
+Thank you for the offer to join [Company] as a [Role]. I am excited about it and grateful for your support through the process.
+
+I would like a little time to review the details. I will follow up shortly with any questions and my decision. Could you let me know the date you need a response by?
+
+Thanks again,
+[Your Full Name]
+```
+
+Withdrawing after you have accepted: send this as soon as you are certain, so the spot can go to someone else, and keep it respectful.
+
+```
+Subject: Offer Update - [Your Name]
+
+Hi [Recruiter Name],
+
+Thank you again for the [Role] offer and for the time you and the team invested in me.
+
+After a lot of thought, I have decided to withdraw so I can pursue another path that fits my current priorities better. I wanted to tell you as soon as I was sure so the opportunity can go to another candidate.
+
+I have a lot of respect for [Company] and hope our paths cross again.
+
+Thank you for understanding,
+[Your Full Name]
+```
+
+---
+
+## during the internship
+
+You are not there only to learn, you are there to contribute, so treat the work like it matters.
+
+- Document what you did from day one. Keep a running log of your work, and when review time or your final presentation comes, it will write itself instead of leaving you scrambling to remember.
+- Try not to ask the same question twice. The fastest way to lose a return offer is asking the same thing over and over.
+- Be resourceful. Your question has almost certainly been answered already, so check and search first before asking. Being resourceful is one of the clearest green flags as an intern.
+- Use AI tools to move faster and learn faster, not to skip understanding. Interns who use them well stand out.
+- Imposter syndrome is common and almost everyone feels it. It is not a sign you do not belong.
+
+---
+
+## classes and studying
+
+Take the foundational classes early: data structures and algorithms, linear algebra, and systems fundamentals. The skills to build first are core data structures like linked lists, stacks, and trees, and starting LeetCode. A good project is to implement those data structures yourself. Join one or two clubs you actually care about rather than padding a list.
+
+Study in whatever way works for you. If you are not getting anything out of a lecture, rewatch it online or find the topic on YouTube, since your learning style matters more than the format the class happens to use. Joining an app dev club and building something, or holding an exec role, shows you are involved and care, not only that you have grades.
+
+---
+
+## other resources
+
+- GitHub Student Developer Pack: a large bundle of paid tools for free with a student email, including coding tools, cloud credits, and domains
+- hackathons with cash prizes: build projects, sometimes get paid, and meet other students, and they look good on a resume
+- research with professors: email three to five professors whose work interests you, keep it short, and attach your resume, since summer spots fill fast and research can lead to publications and technical depth
+
 ## contributing
 
 Found a role? Open an issue or a pull request. The short version is in [CONTRIBUTING.md](CONTRIBUTING.md).
