@@ -24,54 +24,68 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 ## the list
 
-| Company | Role | Location | Apply | Date Posted |
-| --- | --- | --- | --- | --- |
-| Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) | |
-| Aquatic Capital | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | |
-| Wipfli | ERP Tech Consulting Intern | | [apply](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | |
-| Cargill | Operations Management Intern | Minneapolis, MN (multiple US) | [apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | |
-| Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | |
-| LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | [apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | |
-| Podium | Software Engineering Intern | | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) | |
-| WSP | Software Developer Intern | | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | |
-| Veeam | Software Engineer Intern, Platform Security & AI | | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | |
-| Zoox | Platform Intelligence Intern | | [apply](https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2) | |
-| Apex Technology | Software Engineer Intern, Embedded Systems | | [apply](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | |
-| TETRAMEM | Software Engineer Intern, Embedded | | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042) | |
-| Al Warren Oil | Software Developer Intern | | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) | |
-| Walleye Capital | Quant Developer Intern | | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | |
-| TransMarketGroup | DevOps / SRE Intern | | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) | |
-| Voloridge Investment Management | Quantitative Developer Intern | | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) | |
-| Susquehanna | Trading System Engineering Intern 🇺🇸 | | [apply](https://careers.sig.com/jobs/10837) | |
-| Stoke Space | Software Engineer Intern 🇺🇸 | | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | |
-| Kudu Dynamics | Software Engineer Intern (1) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | |
-| Kudu Dynamics | Software Engineer Intern (2) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | |
-| Kudu Dynamics | Software Engineer Intern (3) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | |
-| Etched | Inference Intern, Architecture | | [apply](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) | |
-| Etched | Firmware Intern | | [apply](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) | |
-| Etched | Infrastructure Intern | | [apply](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | |
-| Etched | Supercomputing Intern | | [apply](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e) | |
-| Cubist Systematic Strategies | Quantitative Developer Intern | | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&token=7297613002) | |
-| StarSling | Software Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/95003) | |
-| Nash | Full Stack Engineering Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94993) | |
-| Trata | Research Scientist Intern | | [apply](https://www.workatastartup.com/jobs/94620) | |
-| Terranox AI | AI/ML Engineering Intern | | [apply](https://www.workatastartup.com/jobs/94631) | |
-| Naive | Software Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94647) | |
-| Abundant | Software Engineering Intern, Research Focused 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94634) | |
-| Veeam | Software Engineering Intern, Policy Engineering | | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101) | |
-| Paragon | Forward Deployed Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/93642) | |
-| General Astronautics | Engineering Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94206) | |
-| DimeHealth AI | Forward Deployed Engineering Intern | | [apply](https://www.workatastartup.com/jobs/94211) | |
-| Dedalus Labs | Forward Deployed Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94400) | |
-| Homebase | Forward Deployed Engineering Intern, AI-Native | | [apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | |
-| TikTok | LLM Post-training Engineer Intern | | [apply](https://lifeattiktok.com/search/7631599293708126517) | |
-| H&CO | Software Development Intern | | [apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) | |
-| Ether.fi | GTM Engineer Intern | | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) | |
-| Poshmark | Cloud Platform Engineer Intern, Growth 🛂 | | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | |
-| Intercontinental Exchange | AI, Data & Machine Learning Intern | | [apply](https://careers.ice.com/jobs/12830) | |
-| Fiserv | Application Development Intern 🛂 | | [apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern) | |
-| Fiserv | Technology Intern 🛂 | | [apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern) | |
-| Point72 | Quantitative Developer Intern | | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | |
+| Company | Role | Location | Apply |
+| --- | --- | --- | --- |
+| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) |
+| Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) |
+| LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) |
+| ByteDance | Student Researcher, Vision Foundation Model (Seed) | | [apply](https://joinbytedance.com/search/7623544831999346997) |
+| CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) 🇺🇸 | Lynchburg, VA | [apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) |
+| Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10838) |
+| Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) |
+| ASM | Software Engineering Intern (Spring 2027) | | [apply](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) |
+| GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) |
+| Ellipsis Labs | Software Engineer Intern | New York, NY | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
+| Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) |
+| BlackRock | Summer Internship Program, AMERS (all tracks) | New York, NY (multiple US) | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) |
+| BNP Paribas | Summer Analyst, Global Markets Sales | Boston, MA | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) |
+| BNP Paribas | Summer Analyst, Corporate Functions Operations | | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) |
+| Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) |
+| Aquatic Capital | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
+| Wipfli | ERP Tech Consulting Intern | | [apply](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) |
+| Cargill | Operations Management Intern | Minneapolis, MN (multiple US) | [apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) |
+| Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
+| LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | [apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) |
+| Podium | Software Engineering Intern | | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
+| WSP | Software Developer Intern | | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) |
+| Veeam | Software Engineer Intern, Platform Security & AI | | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) |
+| Zoox | Platform Intelligence Intern | | [apply](https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2) |
+| Apex Technology | Software Engineer Intern, Embedded Systems | | [apply](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) |
+| TETRAMEM | Software Engineer Intern, Embedded | | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042) |
+| Al Warren Oil | Software Developer Intern | | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
+| Walleye Capital | Quant Developer Intern | | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
+| TransMarketGroup | DevOps / SRE Intern | | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) |
+| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) |
+| Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) |
+| Stoke Space | Software Engineer Intern 🇺🇸 | | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) |
+| Kudu Dynamics | Software Engineer Intern (1) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
+| Kudu Dynamics | Software Engineer Intern (2) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) |
+| Kudu Dynamics | Software Engineer Intern (3) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) |
+| Etched | Inference Intern, Architecture | | [apply](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) |
+| Etched | Firmware Intern | | [apply](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) |
+| Etched | Infrastructure Intern | | [apply](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) |
+| Etched | Supercomputing Intern | | [apply](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e) |
+| Cubist Systematic Strategies | Quantitative Developer Intern | | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&token=7297613002) |
+| StarSling | Software Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/95003) |
+| Nash | Full Stack Engineering Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94993) |
+| Trata | Research Scientist Intern | | [apply](https://www.workatastartup.com/jobs/94620) |
+| Terranox AI | AI/ML Engineering Intern | | [apply](https://www.workatastartup.com/jobs/94631) |
+| Naive | Software Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94647) |
+| Abundant | Software Engineering Intern, Research Focused 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94634) |
+| Veeam | Software Engineering Intern, Policy Engineering | | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101) |
+| Paragon | Forward Deployed Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/93642) |
+| General Astronautics | Engineering Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94206) |
+| DimeHealth AI | Forward Deployed Engineering Intern | | [apply](https://www.workatastartup.com/jobs/94211) |
+| Dedalus Labs | Forward Deployed Engineer Intern 🇺🇸 | | [apply](https://www.workatastartup.com/jobs/94400) |
+| Homebase | Forward Deployed Engineering Intern, AI-Native | | [apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) |
+| TikTok | LLM Post-training Engineer Intern | | [apply](https://lifeattiktok.com/search/7631599293708126517) |
+| H&CO | Software Development Intern | | [apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
+| Ether.fi | GTM Engineer Intern | | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
+| Poshmark | Cloud Platform Engineer Intern, Growth 🛂 | | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
+| Intercontinental Exchange | AI, Data & Machine Learning Intern | | [apply](https://careers.ice.com/jobs/12830) |
+| Fiserv | Application Development Intern 🛂 | | [apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern) |
+| Fiserv | Technology Intern 🛂 | | [apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern) |
+| Point72 | Quantitative Developer Intern | | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
 Newest entries go at the top. Mark a role with 🔒 when it closes instead of deleting the row.
 
@@ -79,6 +93,8 @@ Newest entries go at the top. Mark a role with 🔒 when it closes instead of de
 
 | org | opportunity | type | deadline |
 | --- | --- | --- | --- |
+| Schonfeld | [2027 Summer Internships, Express Your Interest](https://job-boards.greenhouse.io/schonfeld/jobs/7635430) | express interest pipeline, full roles open Aug 2026 | rolling |
+| Dexcom | [2027 US Summer Internship, Early Interest](https://careers.dexcom.com/careers/job/40100410) | early interest pipeline | rolling |
 | Neo | [Neo Scholars](https://neo.com/scholars) | CS undergrad fellowship | approx June 14 to 30, 2026 |
 | Apple | [Software Undergrad Engineering Internship](https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships?team=STDNT) | SWE intern (undergrad) | rolling |
 | Apple | [Machine Learning & AI Undergrad Internship](https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships) | ML / AI intern (undergrad) | rolling |
