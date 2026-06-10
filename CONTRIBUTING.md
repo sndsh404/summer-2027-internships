@@ -26,10 +26,10 @@ Two ways.
 2. Or edit `README.md` and open a pull request. Add a row to the table in this format:
 
    ```
-   | Company | Role | Location | [apply](https://link) | 2026-06-08 |
+   | Company | Role | Location | [apply](https://link) |
    ```
 
-   Put new rows at the top. Date Posted is the date the role went up, in YYYY-MM-DD.
+   Put new rows at the top. Leave the location cell empty if it is remote or not listed.
 
 ## fixes and corrections
 
