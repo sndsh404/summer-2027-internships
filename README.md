@@ -26,6 +26,10 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply |
 | --- | --- | --- | --- |
+| Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
+| Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
+| Anduril | Software Engineer Intern (referrals only until Sept 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
+| JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) |
 | Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) |
 | LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) |
@@ -47,9 +51,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | [apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) |
 | Podium | Software Engineering Intern | Lehi, UT | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
-| Al Warren Oil | Software Developer Intern | | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
 | Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
-| TransMarketGroup | DevOps / SRE Intern | | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) |
 | Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) |
 | Stoke Space | Software Engineer Intern 🇺🇸 | Kent, WA | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) |
