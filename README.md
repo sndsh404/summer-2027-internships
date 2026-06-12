@@ -26,9 +26,11 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply |
 | --- | --- | --- | --- |
+| TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | Phoenix, AZ | [apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
+| Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
 | Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
-| Anduril | Software Engineer Intern (referrals only until Sept 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
+| Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) |
 | Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) |
