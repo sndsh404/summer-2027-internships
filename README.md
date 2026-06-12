@@ -26,6 +26,9 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply |
 | --- | --- | --- | --- |
+| Citi | Services Summer Analyst 🛂 | New York, NY | [apply](https://jobs.citi.com/job/-/-/287/93724104768) |
+| Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) |
+| Solar Turbines (Caterpillar) | Gas Compressor Data Analyst Intern 🛂 | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) |
 | TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | Phoenix, AZ | [apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) |
 | Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
