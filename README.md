@@ -24,54 +24,54 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 ## the list
 
-The **Added** column is the date a role landed in this repo (`YYYY-MM-DD`), so you can spot what's new. Rows from before this column existed are marked — since those dates weren't tracked.
+Note: the Added column is being filled in over time, so rows without a date show a dash for now. New roles are added at the top, so the most recent are highest in the list.
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
-| Citi | Services Summer Analyst 🛂 | New York, NY | [apply](https://jobs.citi.com/job/-/-/287/93724104768) | — |
-| Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | — |
-| Solar Turbines (Caterpillar) | Gas Compressor Data Analyst Intern 🛂 | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | — |
-| TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | Phoenix, AZ | [apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) | — |
-| Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | — |
-| Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) | — |
-| Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) | — |
-| Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | — |
-| JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | — |
-| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) | — |
-| Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) | — |
-| LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | — |
-| ByteDance | Student Researcher, Vision Foundation Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623544831999346997) | — |
-| CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) 🇺🇸 | Lynchburg, VA | [apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | — |
-| Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10838) | — |
-| Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) | — |
-| ASM | Software Engineering Intern (Spring 2027) | | [apply](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) | — |
-| GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) | — |
-| Ellipsis Labs | Software Engineer Intern | New York, NY | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | — |
-| Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | — |
-| BlackRock | Summer Internship Program, AMERS (all tracks) | New York, NY (multiple US) | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | — |
-| BNP Paribas | Summer Analyst, Global Markets Sales | Boston, MA | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | — |
-| BNP Paribas | Summer Analyst, Corporate Functions Operations | Jersey City, NJ | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | — |
-| Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) | — |
-| Aquatic Capital | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | — |
-| Wipfli | ERP Tech Consulting Intern | Milwaukee, WI (multiple US) | [apply](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | — |
-| Cargill | Operations Management Intern | Minneapolis, MN (multiple US) | [apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | — |
-| Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | — |
-| LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | [apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | — |
-| Podium | Software Engineering Intern | Lehi, UT | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) | — |
-| Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | — |
-| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) | — |
-| Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) | — |
-| Stoke Space | Software Engineer Intern 🇺🇸 | Kent, WA | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | — |
-| Kudu Dynamics | Software Engineer Intern (1) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | — |
-| Kudu Dynamics | Software Engineer Intern (2) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | — |
-| Kudu Dynamics | Software Engineer Intern (3) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | — |
-| Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&token=7297613002) | — |
-| Nash | Full Stack Engineering Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/94993) | — |
-| Trata | Research Scientist Intern | San Francisco, CA / New York, NY | [apply](https://www.workatastartup.com/jobs/94620) | — |
-| Naive | Software Engineer Intern 🇺🇸 | San Francisco, CA / Remote (US) | [apply](https://www.workatastartup.com/jobs/94647) | — |
-| Paragon | Forward Deployed Engineer Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/93642) | — |
-| DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | [apply](https://www.workatastartup.com/jobs/94211) | — |
-| Point72 | Quantitative Developer Intern | New York, NY | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | — |
+| Citi | Services Summer Analyst 🛂 | New York, NY | [apply](https://jobs.citi.com/job/-/-/287/93724104768) | - |
+| Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | - |
+| Solar Turbines (Caterpillar) | Gas Compressor Data Analyst Intern 🛂 | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | - |
+| TSMC Arizona | Engineering Intern (12 roles: process, equipment, CIM / software) | Phoenix, AZ | [apply](https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/) | - |
+| Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | - |
+| Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) | - |
+| Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) | - |
+| Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | - |
+| JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | - |
+| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) | - |
+| Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) | - |
+| LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | - |
+| ByteDance | Student Researcher, Vision Foundation Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623544831999346997) | - |
+| CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) 🇺🇸 | Lynchburg, VA | [apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | - |
+| Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10838) | - |
+| Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) | - |
+| ASM | Software Engineering Intern (Spring 2027) | | [apply](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) | - |
+| GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) | - |
+| Ellipsis Labs | Software Engineer Intern | New York, NY | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | - |
+| Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | - |
+| BlackRock | Summer Internship Program, AMERS (all tracks) | New York, NY (multiple US) | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | - |
+| BNP Paribas | Summer Analyst, Global Markets Sales | Boston, MA | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | - |
+| BNP Paribas | Summer Analyst, Corporate Functions Operations | Jersey City, NJ | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | - |
+| Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) | - |
+| Aquatic Capital | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | - |
+| Wipfli | ERP Tech Consulting Intern | Milwaukee, WI (multiple US) | [apply](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | - |
+| Cargill | Operations Management Intern | Minneapolis, MN (multiple US) | [apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | - |
+| Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | - |
+| LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | [apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | - |
+| Podium | Software Engineering Intern | Lehi, UT | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) | - |
+| Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | - |
+| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) | - |
+| Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) | - |
+| Stoke Space | Software Engineer Intern 🇺🇸 | Kent, WA | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | - |
+| Kudu Dynamics | Software Engineer Intern (1) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | - |
+| Kudu Dynamics | Software Engineer Intern (2) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | - |
+| Kudu Dynamics | Software Engineer Intern (3) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | - |
+| Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&token=7297613002) | - |
+| Nash | Full Stack Engineering Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/94993) | - |
+| Trata | Research Scientist Intern | San Francisco, CA / New York, NY | [apply](https://www.workatastartup.com/jobs/94620) | - |
+| Naive | Software Engineer Intern 🇺🇸 | San Francisco, CA / Remote (US) | [apply](https://www.workatastartup.com/jobs/94647) | - |
+| Paragon | Forward Deployed Engineer Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/93642) | - |
+| DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | [apply](https://www.workatastartup.com/jobs/94211) | - |
+| Point72 | Quantitative Developer Intern | New York, NY | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | - |
 
 Newest entries go at the top.🔝
 

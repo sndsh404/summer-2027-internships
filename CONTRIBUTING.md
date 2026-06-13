@@ -33,9 +33,9 @@ Two ways.
 
 ## dates
 
-The last column, **Added**, is the date a role was added to this repo, in `YYYY-MM-DD` format (e.g. `2026-06-13`). Use the date you open the PR or issue. It lets people see what's new since they last checked.
+The `Added` column is the date a role was added to this repo, in `YYYY-MM-DD` format. Use the date you add the row. It lets people see what's new since they last checked.
 
-Rows added before this column existed are marked — because those dates weren't tracked. Don't backfill guesses; leave the — there.
+Rows without a date yet show a dash (`-`). The column is being filled in over time. Don't backfill guesses.
 
 ## fixes and corrections
 
