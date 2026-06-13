@@ -26,10 +26,16 @@ Two ways.
 2. Or edit `README.md` and open a pull request. Add a row to the table in this format:
 
    ```
-   | Company | Role | Location | [apply](https://link) |
+   | Company | Role | Location | [apply](https://link) | YYYY-MM-DD |
    ```
 
-   Put new rows at the top. Leave the location cell empty if it is remote or not listed.
+   Put new rows at the top. Leave the location cell empty if it is remote or not listed. Put the date you add the row in the last cell (see [dates](#dates) below).
+
+## dates
+
+The last column, **Added**, is the date a role was added to this repo, in `YYYY-MM-DD` format (e.g. `2026-06-13`). Use the date you open the PR or issue. It lets people see what's new since they last checked.
+
+Rows added before this column existed are marked — because those dates weren't tracked. Don't backfill guesses; leave the — there.
 
 ## fixes and corrections
 
