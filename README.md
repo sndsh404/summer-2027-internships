@@ -24,7 +24,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 ## the list
 
-Note: the Added column is being filled in over time, so rows without a date show a dash for now. New roles are added at the top, so the most recent are highest in the list.
+📝 Note: the Added column shows when a role was posted, with the newest at the top. I tried pulling a posted date from each job portal, but a lot of them (greenhouse, smaller career sites, etc.) don't show one publicly, so only some are dated for now and the rest stay a dash. New roles get a date where the portal shows one. Have a date for one of these? Open a PR and I'll merge it.
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
