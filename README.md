@@ -4,6 +4,12 @@ A list of tech internships for Summer 2027 and off-season terms (fall, winter, s
 
 > ⭐ **Star this repo** to save it and get updates when new roles are added.
 
+## tracker
+
+update: hey guys, i added an application tracker to the repo so you guys can keep all your applications in one place instead of losing track of everything. download it, upload it to google sheets, and bookmark it. works in excel too. hope it helps, thank you.
+
+file: [internship_tracker.xlsx](internship_tracker.xlsx)
+
 ## scope
 
 - software engineering, data and ML, hardware, quant, and product roles
