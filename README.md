@@ -34,11 +34,11 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
-| Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Jupiter, FL | [apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | 2026-06-15 |
-| Voloridge Investment Management | Quantitative Research Intern (Summer 2027) | Jupiter, FL | [apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | 2026-06-15 |
-| Circleback | Software Engineering Intern (Summer 2027) 🛂 | San Francisco, CA | [apply](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | 2026-06-15 |
+| Circleback | Software Engineering Intern (Summer 2027) 🛂 | San Francisco, CA | [apply](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | 2026-06-16 |
 | StepStone Group | Private Equity Infrastructure & Real Assets Summer Analyst 🛂 | New York, NY | [apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | 2026-06-15 |
-| GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) | 2026-06-15 |
+| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | 2026-06-15 |
+| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | 2026-06-15 |
+| GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) | 2026-06-14 |
 | Solar Turbines (Caterpillar) | Gas Compressor Data Analyst Intern 🛂 | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) | 2026-06-12 |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) | 2026-06-10 |
 | Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) | 2026-06-10 |
@@ -51,7 +51,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | - |
 | Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | - |
 | Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | - |
-| Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1010132/quantitative-research-intern-2027) | - |
 | Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) | - |
 | LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | - |
 | ByteDance | Student Researcher, Vision Foundation Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623544831999346997) | - |
@@ -70,7 +69,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | - |
 | Podium | Software Engineering Intern | Lehi, UT | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) | - |
 | Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | - |
-| Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027) | - |
 | Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) | - |
 | Stoke Space | Software Engineer Intern 🇺🇸 | Kent, WA | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004) | - |
 | Kudu Dynamics | Software Engineer Intern (1) 🇺🇸 | Chantilly, VA | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | - |
