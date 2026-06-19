@@ -34,6 +34,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | 2026-06-18 |
 | Circleback | Software Engineering Intern (Summer 2027) 🛂 | San Francisco, CA | [apply](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | 2026-06-16 |
 | StepStone Group | Private Equity Infrastructure & Real Assets Summer Analyst 🛂 | New York, NY | [apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | 2026-06-15 |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | [apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | 2026-06-15 |
@@ -59,7 +60,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) | - |
 | ASM | Software Engineering Intern (Spring 2027) | | [apply](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) | - |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | - |
-| Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | - |
 | BNP Paribas | Summer Analyst, Global Markets Sales | Boston, MA | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | - |
 | BNP Paribas | Summer Analyst, Corporate Functions Operations | Jersey City, NJ | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-corporate-functions-operations) | - |
 | Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) | - |
