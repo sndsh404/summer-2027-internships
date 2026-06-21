@@ -34,6 +34,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| JPMorganChase | Commercial & Investment Bank Innovation Development Summer Analyst, Product Track 🛂 | Chicago, IL (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | 2026-06-19 |
 | Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | 2026-06-18 |
 | Circleback | Software Engineering Intern (Summer 2027) 🛂 | San Francisco, CA | [apply](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | 2026-06-16 |
 | StepStone Group | Private Equity Infrastructure & Real Assets Summer Analyst 🛂 | New York, NY | [apply](https://www.stepstonegroup.com/current-opportunities/?gh_jid=7872890) | 2026-06-15 |
@@ -49,6 +50,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Citi | Services Summer Analyst 🛂 | New York, NY | [apply](https://jobs.citi.com/job/-/-/287/93724104768) | 2026-04-08 |
 | BlackRock | Summer Internship Program, AMERS (all tracks) | New York, NY (multiple US) | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | 2026-01-15 |
 | JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | 2026-01-08 |
+| Los Alamos National Laboratory | Computing & AI Division Undergraduate Student (CS / Math / Stats) 🇺🇸 | Los Alamos, NM | [apply](https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e) | - |
 | Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | - |
 | Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | - |
 | Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | - |
