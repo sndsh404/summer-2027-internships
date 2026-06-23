@@ -34,6 +34,8 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Midmark | Firmware Engineering Co-op (Spring 2027) | Versailles, OH | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | 2026-06-22 |
+| JPMorganChase | Markets Summer Analyst (Sales / Trading / Structuring / Digital Markets) 🛂 | New York, NY (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | 2026-06-21 |
 | JPMorganChase | Commercial & Investment Bank Innovation Development Summer Analyst, Product Track 🛂 | Chicago, IL (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | 2026-06-19 |
 | Affinius Capital | Data Scientist Intern | San Antonio, TX | [apply](https://careers-affiniuscapital.icims.com/jobs/2284/summer-2027-data-scientist-intern/job) | 2026-06-18 |
 | Circleback | Software Engineering Intern (Summer 2027) 🛂 | San Francisco, CA | [apply](https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027) | 2026-06-16 |
