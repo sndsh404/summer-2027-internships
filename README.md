@@ -34,6 +34,8 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Amazon | Operations Finance Rotational Program Intern 🛂 | Seattle, WA / Arlington, VA | [apply](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | 2026-06-23 |
+| Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | 2026-06-23 |
 | Midmark | Firmware Engineering Co-op (Spring 2027) | Versailles, OH | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | 2026-06-22 |
 | JPMorganChase | Markets Summer Analyst (Sales / Trading / Structuring / Digital Markets) 🛂 | New York, NY (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690325) | 2026-06-21 |
 | JPMorganChase | Commercial & Investment Bank Innovation Development Summer Analyst, Product Track 🛂 | Chicago, IL (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690743) | 2026-06-19 |
