@@ -359,7 +359,7 @@ MIT. See [LICENSE](LICENSE).
 
 ## support
 
-i'm an intl student, so yk how much of a struggle it is. if this helped you save time or land something, you can [buy me a coffee](https://buymeacoffee.com/sndsh404) ☕. thanks ❤️
+hi, i am an intl student and yk how it is.. if this helped you save time or land something, you can [buy me a coffee](https://buymeacoffee.com/sndsh404) ☕. thanks ❤️
 
 ## maintainer
 
