@@ -357,6 +357,10 @@ Found a role? Open an issue or a pull request. The short version is in [CONTRIBU
 
 MIT. See [LICENSE](LICENSE).
 
+## support
+
+I'm an international student and I keep this list updated on my own. If it saved you some time or helped you land something, you can [buy me a coffee](https://buymeacoffee.com/sndsh404) ☕. Thanks ❤️.
+
 ## maintainer
 
 Sandesh Bhandari · [GitHub](https://github.com/sndsh404) · [LinkedIn](https://www.linkedin.com/in/sandeshbhandari171/)
