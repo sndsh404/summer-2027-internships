@@ -34,6 +34,9 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Rippling | Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) | San Francisco, CA / New York, NY / Seattle, WA | [apply](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | 2026-06-27 |
+| CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | [apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | 2026-06-27 |
+| Virtu Financial | Quant Research Intern (Undergrad) | New York, NY | [apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-06-27 |
 | Amazon | Operations Finance Rotational Program Intern 🛂 | Seattle, WA / Arlington, VA | [apply](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | 2026-06-23 |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | 2026-06-23 |
 | Midmark | Firmware Engineering Co-op (Spring 2027) | Versailles, OH | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | 2026-06-22 |
