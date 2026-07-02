@@ -44,12 +44,15 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Bank of America | Global Technology Summer Analyst, Business Analyst 🛂 | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | 2026-06-28 |
 | Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | 2026-06-28 |
 | Susquehanna | Quantitative Systematic Trading Intern (Master's) | New York, NY | [apply](https://careers.sig.com/jobs/10824) | 2026-06-28 |
+| Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) | 2026-06-28 |
 | GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | 2026-06-28 |
 | Dedalus Labs | Systems Engineer / Product Manager Intern (Summer 2027) | San Francisco, CA | [apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | 2026-06-28 |
 | ByteDance | Student Researcher, Multimodal Interaction & World Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623548747208739077) | 2026-06-28 |
+| ByteDance | Student Researcher, Vision Foundation Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623544831999346997) | 2026-06-28 |
 | Rippling | Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) | San Francisco, CA / New York, NY / Seattle, WA | [apply](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | 2026-06-27 |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | [apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | 2026-06-27 |
 | Virtu Financial | Quant Research Intern (Undergrad) | New York, NY | [apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-06-27 |
+| Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) | 2026-06-25 |
 | Amazon | Operations Finance Rotational Program Intern 🛂 | Seattle, WA / Arlington, VA | [apply](https://www.amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | 2026-06-23 |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobId=32928) | 2026-06-23 |
 | Midmark | Firmware Engineering Co-op (Spring 2027) | Versailles, OH | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | 2026-06-22 |
@@ -74,12 +77,9 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | - |
 | Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | - |
 | Anduril | Software Engineer Intern (apps reviewed from Aug 2026) 🇺🇸 | Costa Mesa, CA (multiple US) | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) | - |
-| Medpace | Feasibility Informatics Intern / Co-op (Spring 2027) | Cincinnati, OH | [apply](https://careers.medpace.com/jobs/12803) | - |
 | LufCo | Summer Intern (CS / Software / Engineering) 🇺🇸 | Aberdeen, MD | [apply](https://lufco.breezy.hr/p/3d3ec6639256-summer-intern-2027) | - |
-| ByteDance | Student Researcher, Vision Foundation Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623544831999346997) | - |
 | CloudFit Software | Summer Intern, Early Interest (Software / AI/ML / Cyber) 🇺🇸 | Lynchburg, VA | [apply](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo) | - |
 | Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10838) | - |
-| Susquehanna | Operations Intern | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10916) | - |
 | ASM | Software Engineering Intern (Spring 2027) | | [apply](https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101) | - |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | - |
 | BNP Paribas | Summer Analyst, Global Markets Sales | Boston, MA | [apply](https://group.bnpparibas/en/careers/job-offer/2027-summer-analyst-internship-global-markets-sales-boston-ma) | - |
