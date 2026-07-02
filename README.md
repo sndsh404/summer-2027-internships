@@ -376,7 +376,7 @@ MIT. See [LICENSE](LICENSE).
 
 ## support
 
-hi, i am an intl student and yk how it is.. if this helped you save time or land something, you can [buy me a coffee](https://buymeacoffee.com/sndsh404) ☕. thanks ❤️
+if this helped you save time or land something, you can [buy me a coffee](https://buymeacoffee.com/sndsh404) ☕. thanks ❤️
 
 ## maintainer
 
