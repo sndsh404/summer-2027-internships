@@ -34,6 +34,19 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Two Sigma | Quantitative Researcher Intern | New York, NY | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | 2026-06-28 |
+| Optiver | Software Engineer Intern (Austin) | Austin, TX | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | 2026-06-28 |
+| Optiver | Software Engineer Intern (Chicago) | Chicago, IL | [apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | 2026-06-28 |
+| IMC Trading | Quantitative Research Intern (BS / MS) | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | 2026-06-28 |
+| IMC Trading | Machine Learning Research Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | 2026-06-28 |
+| IMC Trading | Hardware Engineer Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 2026-06-28 |
+| Bank of America | Global Technology Summer Analyst, Cybersecurity Analyst 🛂 | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | 2026-06-28 |
+| Bank of America | Global Technology Summer Analyst, Business Analyst 🛂 | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | 2026-06-28 |
+| Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | 2026-06-28 |
+| Susquehanna | Quantitative Systematic Trading Intern (Master's) | New York, NY | [apply](https://careers.sig.com/jobs/10824) | 2026-06-28 |
+| GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) | 2026-06-28 |
+| Dedalus Labs | Systems Engineer / Product Manager Intern (Summer 2027) | San Francisco, CA | [apply](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) | 2026-06-28 |
+| ByteDance | Student Researcher, Multimodal Interaction & World Model (Seed) | San Jose, CA | [apply](https://joinbytedance.com/search/7623548747208739077) | 2026-06-28 |
 | Rippling | Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) | San Francisco, CA / New York, NY / Seattle, WA | [apply](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | 2026-06-27 |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | [apply](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) | 2026-06-27 |
 | Virtu Financial | Quant Research Intern (Undergrad) | New York, NY | [apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 2026-06-27 |
