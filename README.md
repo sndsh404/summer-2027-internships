@@ -37,6 +37,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Two Sigma | Quantitative Researcher Intern | New York, NY | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | 2026-06-28 |
 | Optiver | Software Engineer Intern (Austin) | Austin, TX | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | 2026-06-28 |
 | Optiver | Software Engineer Intern (Chicago) | Chicago, IL | [apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | 2026-06-28 |
+| IMC Trading | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 2026-06-28 |
 | IMC Trading | Quantitative Research Intern (BS / MS) | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | 2026-06-28 |
 | IMC Trading | Machine Learning Research Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | 2026-06-28 |
 | IMC Trading | Hardware Engineer Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 2026-06-28 |
