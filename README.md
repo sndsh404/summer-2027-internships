@@ -103,7 +103,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Naive | Software Engineer Intern 🇺🇸 | San Francisco, CA / Remote (US) | [apply](https://www.workatastartup.com/jobs/94647) | - |
 | Paragon | Forward Deployed Engineer Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/93642) | - |
 | DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | [apply](https://www.workatastartup.com/jobs/94211) | - |
-| Point72 | Quantitative Developer Intern | New York, NY | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | - |
 
 Newest entries go at the top.🔝
 
