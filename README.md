@@ -34,13 +34,16 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| DTCC | Information Technology Intern (2027 Summer) 🛂 | Jersey City, NJ (multiple US) | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | 2026-07-08 |
 | Two Sigma | Quantitative Researcher Intern | New York, NY | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | 2026-06-28 |
 | Optiver | Software Engineer Intern (Austin) | Austin, TX | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | 2026-06-28 |
 | Optiver | Software Engineer Intern (Chicago) | Chicago, IL | [apply](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | 2026-06-28 |
+| Optiver | Quantitative Intern | Chicago, IL | [apply](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/) | 2026-06-28 |
 | IMC Trading | Software Engineer Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | 2026-06-28 |
 | IMC Trading | Quantitative Research Intern (BS / MS) | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | 2026-06-28 |
 | IMC Trading | Machine Learning Research Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | 2026-06-28 |
 | IMC Trading | Hardware Engineer Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 2026-06-28 |
+| IMC Trading | Quantitative Trader Intern | Chicago, IL | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | 2026-06-28 |
 | Bank of America | Global Technology Summer Analyst, Cybersecurity Analyst 🛂 | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations) | 2026-06-28 |
 | Bank of America | Global Technology Summer Analyst, Business Analyst 🛂 | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations) | 2026-06-28 |
 | Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | [apply](https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations) | 2026-06-28 |
@@ -74,6 +77,13 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Citi | Services Summer Analyst 🛂 | New York, NY | [apply](https://jobs.citi.com/job/-/-/287/93724104768) | 2026-04-08 |
 | BlackRock | Summer Internship Program, AMERS (all tracks) | New York, NY (multiple US) | [apply](https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544) | 2026-01-15 |
 | JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) | 2026-01-08 |
+| D. E. Shaw | Software Developer Intern | New York, NY | [apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | - |
+| D. E. Shaw | Quantitative Analyst Intern | New York, NY | [apply](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | - |
+| D. E. Shaw | Systems Engineering Intern | New York, NY | [apply](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) | - |
+| Citi | Markets Quantitative Analysis Summer Analyst | New York, NY | [apply](https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472) | - |
+| Two Sigma | AI Research Scientist Intern (MS / PhD) | New York, NY | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) | - |
+| Tower Research Capital | Quantitative Trader Intern | New York, NY / Chicago, IL | [apply](https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8024128) | - |
+| Tower Research Capital | Quantitative Developer Intern | New York, NY / Chicago, IL | [apply](https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8044334) | - |
 | Los Alamos National Laboratory | Computing & AI Division Undergraduate Student (CS / Math / Stats) 🇺🇸 | Los Alamos, NM | [apply](https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e) | - |
 | Susquehanna | Macro Analyst Intern 🛂 | New York, NY | [apply](https://careers.sig.com/jobs/10725) | - |
 | Baird | Equity Research Analyst Intern 🛂 | Milwaukee, WI | [apply](https://www.bairdcareers.com/jobs/r20251244/internship-equity-research-analyst-summer-2027/) | - |
