@@ -34,6 +34,11 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
+| Arrowstreet Capital | Quantitative Researcher Intern | Boston, MA | [apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | 2026-07-09 |
+| Arrowstreet Capital | Quantitative Developer Intern | Boston, MA | [apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | 2026-07-09 |
+| Flow Traders | Quantitative Trading Intern | New York, NY | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 2026-07-09 |
+| LA-Tech.org | Technical Intern, Software / Cyber / AI (Spring 2027, remote) | Los Angeles, CA / Remote (US) | [apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) | 2026-07-09 |
+| JPMorganChase | Corporate Analyst Development Program Summer Analyst 🛂 | New York, NY (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | 2026-07-08 |
 | DTCC | Information Technology Intern (2027 Summer) 🛂 | Jersey City, NJ (multiple US) | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | 2026-07-08 |
 | Two Sigma | Quantitative Researcher Intern | New York, NY | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945) | 2026-06-28 |
 | Optiver | Software Engineer Intern (Austin) | Austin, TX | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | 2026-06-28 |
