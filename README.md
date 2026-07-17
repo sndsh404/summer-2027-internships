@@ -57,6 +57,12 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Arrowstreet Capital | Quantitative Researcher Intern | Boston, MA | [apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | 2026-07-09 |
 | Arrowstreet Capital | Quantitative Developer Intern | Boston, MA | [apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | 2026-07-09 |
 | Flow Traders | Quantitative Trading Intern | New York, NY | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 2026-07-09 |
+| Palantir | Software Engineer Intern | New York, NY (multiple US) | [apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | 2026-07-09 |
+| Palantir | Software Engineer Intern, Infrastructure | New York, NY (multiple US) | [apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | 2026-07-09 |
+| Palantir | Software Engineer Intern, Production Infrastructure | New York, NY (multiple US) | [apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | 2026-07-09 |
+| Palantir | Software Engineer Intern, Defense Tech | Washington, DC (multiple US) | [apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | 2026-07-09 |
+| Palantir | Forward Deployed Software Engineer Intern, Commercial | New York, NY (multiple US) | [apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 2026-07-09 |
+| Palantir | Year at Palantir, Forward Deployed Software Engineer Intern | New York, NY (multiple US) | [apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | 2026-07-09 |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI (Spring 2027, remote) | Los Angeles, CA / Remote (US) | [apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) | 2026-07-09 |
 | JPMorganChase | Corporate Analyst Development Program Summer Analyst 🛂 | New York, NY (multiple US) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) | 2026-07-08 |
 | DTCC | Information Technology Intern (2027 Summer) 🛂 | Jersey City, NJ (multiple US) | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | 2026-07-08 |
@@ -136,7 +142,7 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Epic | Software Developer Intern | Verona, WI | [apply](https://careers.epic.com/jobs/intern/) | - |
 | Wipfli | ERP Tech Consulting Intern | Milwaukee, WI (multiple US) | [apply](https://careers-wipfli.icims.com/jobs/7972/erp-tech-consulting-internship--summer-2027/job) | - |
 | Cargill | Operations Management Intern | Minneapolis, MN (multiple US) | [apply](https://careers.cargill.com/en/job/minneapolis/operations-management-intern-summer-2027-food-multiple-u-s-locations/23251/93659612048) | - |
-| Salesforce | Software Engineer Intern (Futureforce) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | - |
+| Salesforce | Software Engineer Intern (Futureforce) 🔒 | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | - |
 | Podium | Software Engineering Intern | Lehi, UT | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) | - |
 | Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | - |
 | Susquehanna | Trading System Engineering Intern 🇺🇸 | Bala Cynwyd, PA | [apply](https://careers.sig.com/jobs/10837) | - |
