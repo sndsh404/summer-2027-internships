@@ -34,23 +34,23 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 
 | Company | Role | Location | Apply | Added |
 | --- | --- | --- | --- | --- |
-| The Trade Desk | Software Engineering Intern (North America) | Denver, CO (multiple US) | [apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 2026-07-16 |
+| The Trade Desk | Software Engineering Intern (North America, Summer 2027) | Denver, CO (multiple US) | [apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 2026-07-16 |
 | Netic | Software Engineer Intern, Agent Platform / Full Stack (2026-2027) | San Francisco, CA | [apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | 2026-07-16 |
-| Databricks | Product Management Intern | San Francisco, CA | [apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | 2026-07-16 |
+| Databricks | Product Management Intern (Summer 2027) | San Francisco, CA | [apply](https://job-boards.greenhouse.io/databricks/jobs/6883068002) | 2026-07-16 |
 | Neuralink | Software Engineer Intern, BCI Applications | Fremont, CA | [apply](https://job-boards.greenhouse.io/neuralink/jobs/6594422003) | 2026-07-16 |
 | Western Digital | Software Engineering Co-op (Winter 2027) | Milpitas, CA | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) | 2026-07-16 |
-| Point72 | Quantitative Research Intern | New York, NY | [apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) | 2026-07-16 |
-| Capital One | Product Development Internship Program | McLean, VA / Plano, TX | [apply](https://www.capitalonecareers.com/job/-/-/234/97421687312) | 2026-07-16 |
-| Solar Turbines (Caterpillar) | IT Intern | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | 2026-07-16 |
-| Solar Turbines (Caterpillar) | Business Analyst Intern | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | 2026-07-16 |
-| Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) | 2026-07-16 |
-| Caterpillar | Summer Corporate Intern, Digital and Analytics | Peoria, IL | [apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000379955) | 2026-07-16 |
+| Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | [apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) | 2026-07-16 |
+| Capital One | Product Development Internship Program (Summer 2027) | McLean, VA / Plano, TX | [apply](https://www.capitalonecareers.com/job/-/-/234/97421687312) | 2026-07-16 |
+| Solar Turbines (Caterpillar) | IT Intern (2027) | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | 2026-07-16 |
+| Solar Turbines (Caterpillar) | Business Analyst Intern (2027) | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) | 2026-07-16 |
+| Solar Turbines (Caterpillar) | Solutions Platforms Engineered Intern (2027) | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) | 2026-07-16 |
+| Caterpillar | Corporate Intern, Digital and Analytics (Summer 2027) | Peoria, IL | [apply](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000379955) | 2026-07-16 |
 | Unison (GE Aerospace) | Engineering Intern (Summer 2027) 🛂 🇺🇸 | Jacksonville, FL | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027) | 2026-07-16 |
-| Five Rings | Software Developer Intern | New York, NY | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | 2026-07-15 |
-| Five Rings | Quantitative Trader Intern | New York, NY | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | 2026-07-15 |
-| Old Mission | Software Engineer Intern (June Start) | Chicago, IL | [apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) | 2026-07-15 |
-| Akuna Capital | Software Engineer Intern (Python / C++ / Full Stack / C# .NET) | Chicago, IL | [apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) | 2026-07-14 |
-| Hudson River Trading | Software Engineering Intern (C++ / Python) | New York, NY (multiple) | [apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | 2026-07-14 |
+| Five Rings | Software Developer Intern (Summer 2027) | New York, NY | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | 2026-07-15 |
+| Five Rings | Quantitative Trader Intern (Summer 2027) | New York, NY | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | 2026-07-15 |
+| Old Mission | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | [apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) | 2026-07-15 |
+| Akuna Capital | Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET) | Chicago, IL | [apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) | 2026-07-14 |
+| Hudson River Trading | Software Engineering Intern (Summer 2027, C++ / Python) | New York, NY (multiple) | [apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | 2026-07-14 |
 | Chevron | Information Technology Software Engineer Intern (2026-2027) | Houston, TX | [apply](https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398) | 2026-07-14 |
 | BAE Systems | Software Engineering Intern I (Summer 2027) 🇺🇸 | Nashua, NH | [apply](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) | 2026-07-14 |
 | Salesforce | Associate Product Manager Intern (APM) | San Francisco, CA | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | 2026-07-14 |
