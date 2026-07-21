@@ -281,7 +281,7 @@ Start before you think you need to. Most people wait too long.
 
 NeetCode and LeetCode are the two main tools. Work through NeetCode 150 or Blind 75 as a base set.
 
-A small note, and this is only my personal opinion. I used to recommend paid prep subscriptions such as NeetCode Pro and AlgoExpert, and they are good products, but the prices have gone up quite a bit since then, so I no longer feel comfortable recommending them. If one fits your budget and the structure helps you, please go ahead. If it does not, you are not missing much. The same problem lists are available free on GitHub, and if you get stuck you can ask an LLM to walk you through a problem in the simplest way possible. Learning it on your own like that will take you just as far.
+A small note, and this is only my personal opinion. I used to recommend paid prep subscriptions such as NeetCode Pro and AlgoExpert, and they are good products, but the prices have gone up quite a bit since then and they have turned into more of a hype advertisement atp, so I no longer feel comfortable recommending them. If one fits your budget and the structure helps you, please go ahead. If it does not, you are not missing much. The same problem lists are available free on GitHub, and if you get stuck you can ask an LLM to walk you through a problem in the simplest way possible. Learning it on your own like that will take you just as far.
 
 Learn patterns, not individual problems. Start with arrays and hashing, two pointers, sliding window, trees with DFS and BFS, and binary search. Master those first because the rest builds on them. Filter by topic, do a set three or four times a week, and start with easy before moving to medium.
 
