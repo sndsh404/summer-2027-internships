@@ -10,6 +10,14 @@ update: hey guys, i added an application tracker to the repo so you guys can kee
 
 file: [internship_tracker.xlsx](internship_tracker.xlsx)
 
+## a note from me, please contribute
+
+hey guys, i started this repo for myself with no big expectations and it has grown way bigger than i thought. thanks for the love.
+
+it is maintained by just me, so please consider contributing. find a dead link, drop it in an issue and i will remove it. find a role that is missing, open an issue or a pr and i will add it. that is the biggest help you can give me and it keeps me going.
+
+i have gotten a few offers to buy this repo but i said no, it would only get worse under some company's website with labels and ads. i am doing my part until the big repos start posting 2027 roles officially, and at that point it gets almost unmaintainable for one person. but until then, lets keep going. thank you so much.
+
 ## scope
 
 - software engineering, data and ML, hardware, quant, and product roles
