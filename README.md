@@ -239,7 +239,7 @@ Watch for exploratory and pipeline programs at companies. Companies do not promo
 
 ## early programs for underclassmen
 
-If you are a freshman or sophomore, apply to early-identification programs. Check out my starred section for relevant links. They are built for students with little experience and act as direct pipelines into internships, and most students do not know they exist. Examples include Microsoft Explore, Google STEP, Google Summer of Code, NVIDIA Ignite, Amazon Propel, Goldman Sachs Possibilities Summit, Capital One programs, HRT Women in Trading, Duolingo Thrive, Activision Blizzard King, SPARX, and MongoDB Next in Tech. Many of these are all expenses paid.
+If you are a freshman or sophomore, apply to early-identification programs. There are community-maintained GitHub repos that track these specifically, so search GitHub for terms like "early career programs", "freshman sophomore internships", and "pre-internship programs" and you will find a few lists with programs worth applying to. They are built for students with little experience and act as direct pipelines into internships, and most students do not know they exist. Examples include Microsoft Explore, Google STEP, Google Summer of Code, NVIDIA Ignite, Amazon Propel, Goldman Sachs Possibilities Summit, Capital One programs, HRT Women in Trading, Duolingo Thrive, Activision Blizzard King, SPARX, and MongoDB Next in Tech. Many of these are all expenses paid.
 
 ---
 
