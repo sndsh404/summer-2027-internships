@@ -448,6 +448,4 @@ if this helped you save time or land something, you can [buy me a coffee](https:
 
 Sandesh Bhandari · [GitHub](https://github.com/sndsh404) · [LinkedIn](https://www.linkedin.com/in/sandeshbhandari171/)
 
-Inspired by the [Pitt CSC and Simplify Summer 2026 internship list](https://github.com/SimplifyJobs/Summer2026-Internships).
-
 Started June 8, 2026. It will only keep getting better.
